@@ -5,6 +5,9 @@ This project presents an interactive **Electric Vehicle (EV) Market Analysis Das
 
 The dashboard transforms raw EV data into meaningful visual intelligence for strategic decision-making.
 
+## Dashboard Preview
+<img width="1540" height="614" alt="Electric_Vehicle_Market_Analysis" src="https://github.com/samkhan0007/Electric-Vehicle-Market-Analysis/blob/main/Electric_Vehicle_Market_Analysis.png" />
+
 ---
 
 ## 🎯 Business Objectives
