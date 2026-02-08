@@ -107,6 +107,3 @@ The dataset contains detailed EV information across multiple brands and cities.
 - Expand dashboard with **environmental impact metrics**
 - Compare EV growth with **traditional fuel vehicle decline** :contentReference[oaicite:6]{index=6}
 
----
-
-## 📁 Repository Structure (Suggested)
